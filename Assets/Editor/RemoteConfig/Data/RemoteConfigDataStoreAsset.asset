@@ -1,0 +1,352 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"83511a19-6d35-4c8d-918e-2a78405cf9e0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"82ef8e63-a813-484d-bdb3-250ce0895e5c\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"EnableAdmob\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0b962439-f9a7-423d-b1c0-85b7b4405403\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableApplovin\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9374f85a-20b9-44ca-9fd1-2cde412778c6\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Admob3Ids\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"6c3f19ff-2e83-4b2b-bd82-64fae48c10ef\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"interstitial_ID(0)\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"ca-app-pub-9090009291567136/8838171016\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"b1e33669-1295-4231-84d8-d89f78605757\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"interstitial_ID(1)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/8838171016\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"3e578f76-d9ae-4479-a707-579e7aedbd71\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"interstitial_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/8838171016\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"eedf61fc-933c-4a7a-b0ab-96d80dfc0f5c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(0)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"8a097d6f-60b4-4784-a475-89e4867edf0c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9764b544-c9bd-4b5a-bd1a-d94b761296b0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"685729dc-8e0e-42a9-803b-b5f836713b26\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(0)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"db2217b2-475a-4da4-8cb2-96be2b951419\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5f7c5421-2522-4d19-aaf3-df3c2dfac516\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6b7ca2a3-3d34-471b-9f14-6d307d6e0e5d\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableTestAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"96700196-b33f-4561-a5d5-d74740cd8f6d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Play\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"32169a37-dd69-456d-a111-fac41480cd11\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"CharacterSelection\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"0e40b5d9-0b5c-423c-9453-a41b2cb14908\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"ModeSelection\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e7616ab5-edc7-4535-a634-79cbdedf0e6a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"LevelSelection\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4dae1dd-44a3-483f-85c5-9fdf5b112660\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Pause\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"aa03c6b1-f8e8-4a2f-9022-5586b25c378f\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Failed\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"d942663a-0f65-473e-b920-3088f7ac4676\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Setting\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"7012dc76-dd3f-4c87-ba1e-64750be012b8\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"InGameInventory\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"93260dbb-fe48-43a7-aeb6-213a52dbf79f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ReviveAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"3c119b99-7951-4143-9f37-dc2a700e22f9\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"GetCoinsRewardAds\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"96cdfaae-5c36-4369-b5a7-efc879fc8cc3\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"GetPowerupRewardAds\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a7f2d087-da0e-4e35-b0a8-abd310222531\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"GetFuelStaminaRewardAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e1975bec-78fe-4cbe-a27e-8d27e81a4688\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"CharacterCarPurchaseRVRewardAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"2c07c4ee-2365-485d-9722-50c334c1153b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Square_Banner_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"cfc8b190-07f3-46cd-8375-1f1449467caf\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Square_Banner_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3afea616-40d3-46d6-a1fe-620c3dbdd47e\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Square_Banner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9c2465e3-5fcb-4bcd-b922-df55522312d6\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"SmartBannerBool\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"7f567521-267d-4fa7-8b1f-4536d93d0c30\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"SimpleBannerBool\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"ac3fdc12-7a96-4d25-b66e-2e14eedbaffe\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AppLovinInterstitialAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"71361441954c3bdf\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"639ab09f-b7aa-47e3-aaef-cb7c067a54c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppLovinBannerAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"200226539c69b315\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"68a7051c-3b5a-4d41-8b43-19585d4002bf\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppLovinRewardedAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1db535d17b5a65e7\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a15e943e-4aac-4d18-b5d7-33cadac35a17\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"TwoSmallBannerAppLovinAndAdmob\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"d78fd3a5-f12d-4155-916c-38bd5fee0308\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppOpen_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/3132695992\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"37f508d9-0641-4ca6-be72-d10ca36091c8\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"RewardCheckAll\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a9cd4827-9510-4d82-969f-2693fd95112a\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"interstitialCheckAll\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"4a2e8bd9-e404-43be-bbe5-1f802822d046\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"SquareBannerCheckAll\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0c786e5d-9fc0-4037-895c-34adb5a6de3b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AppOpenLandScape\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"b8c89e6f-ebaa-414a-a524-53d2565e3fa8\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"EnableAppOpenAD\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"6f7de8b6-8956-464a-9628-e44a4b775c37\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AppLovinMRecAdID\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"80c2ff27c96b3f67\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"98637f17-ce95-4e04-afcd-8545985db359\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"TopLeftSmallBannerMediation\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"f7c8b108-d42a-4175-8bd4-8bbe44dbf2b0\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"TopRightSmallBannerAdmob\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"bb12951f-2b67-4464-9c34-4895cbb52eae\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"RightBanner_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"e9a95852-d307-45e8-852d-db0d8f36169d\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"RightBanner_AD_ID(1)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"640548d0-a968-43e5-a684-2067959ec8fe\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"RightBanner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"238c58be-e2a5-46ed-af5e-76ded1a7b953\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ShopItem\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"97576dfb-b838-4740-a922-f90d73adb48d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"BannerCheckAllApplovinAndAdmob\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"aea53e59-3492-4666-87ca-adaab3d61245\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ApplovinBannerPosition\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"03d333fa-d959-437e-89eb-3adccdb33d9b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"LevelComplete\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e1a973d8-81a7-4131-b938-e6273558f13d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ShowApplovinInterstitial\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"1b638e72-854e-4558-bec2-89f9e559597d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ShowApplovinRewarded\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3d2b01e3-6804-412f-b04e-b4140abb28d8\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ApplovinMREC\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"967641b6-08b1-446f-b7e4-3399ae624529\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AdDivisionValue\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"d227c5e5-91f6-4a1a-8c48-94f14b627775\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobInterstitial\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"4866b992-dfbe-49d9-9a20-707b0742e600\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"ShopActivationValue\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"8c735642-e6d5-4776-a9d9-f6fee85872e1\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ApplovinTestAds\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"83511a19-6d35-4c8d-918e-2a78405cf9e0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"82ef8e63-a813-484d-bdb3-250ce0895e5c\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"EnableAdmob\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0b962439-f9a7-423d-b1c0-85b7b4405403\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableApplovin\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"9374f85a-20b9-44ca-9fd1-2cde412778c6\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"Admob3Ids\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"6c3f19ff-2e83-4b2b-bd82-64fae48c10ef\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"interstitial_ID(0)\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"ca-app-pub-9090009291567136/8838171016\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"b1e33669-1295-4231-84d8-d89f78605757\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"interstitial_ID(1)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/8838171016\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"3e578f76-d9ae-4479-a707-579e7aedbd71\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"interstitial_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/8838171016\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"eedf61fc-933c-4a7a-b0ab-96d80dfc0f5c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(0)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"8a097d6f-60b4-4784-a475-89e4867edf0c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9764b544-c9bd-4b5a-bd1a-d94b761296b0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Rewarded_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/3900156216\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"685729dc-8e0e-42a9-803b-b5f836713b26\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(0)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"db2217b2-475a-4da4-8cb2-96be2b951419\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5f7c5421-2522-4d19-aaf3-df3c2dfac516\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Banner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6b7ca2a3-3d34-471b-9f14-6d307d6e0e5d\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"EnableTestAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"96700196-b33f-4561-a5d5-d74740cd8f6d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Play\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"32169a37-dd69-456d-a111-fac41480cd11\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"CharacterSelection\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"0e40b5d9-0b5c-423c-9453-a41b2cb14908\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"ModeSelection\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e7616ab5-edc7-4535-a634-79cbdedf0e6a\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"LevelSelection\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"a4dae1dd-44a3-483f-85c5-9fdf5b112660\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Pause\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"aa03c6b1-f8e8-4a2f-9022-5586b25c378f\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Failed\",\r\n      \"type\": \"bool\",\r\n      \"value\": true\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"d942663a-0f65-473e-b920-3088f7ac4676\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Setting\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"7012dc76-dd3f-4c87-ba1e-64750be012b8\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"InGameInventory\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"93260dbb-fe48-43a7-aeb6-213a52dbf79f\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ReviveAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"3c119b99-7951-4143-9f37-dc2a700e22f9\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"GetCoinsRewardAds\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"96cdfaae-5c36-4369-b5a7-efc879fc8cc3\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"GetPowerupRewardAds\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a7f2d087-da0e-4e35-b0a8-abd310222531\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"GetFuelStaminaRewardAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e1975bec-78fe-4cbe-a27e-8d27e81a4688\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"CharacterCarPurchaseRVRewardAds\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"2c07c4ee-2365-485d-9722-50c334c1153b\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"Square_Banner_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"cfc8b190-07f3-46cd-8375-1f1449467caf\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Square_Banner_AD_ID(1)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3afea616-40d3-46d6-a1fe-620c3dbdd47e\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"Square_Banner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"9c2465e3-5fcb-4bcd-b922-df55522312d6\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"SmartBannerBool\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"7f567521-267d-4fa7-8b1f-4536d93d0c30\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"SimpleBannerBool\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"ac3fdc12-7a96-4d25-b66e-2e14eedbaffe\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AppLovinInterstitialAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"71361441954c3bdf\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"639ab09f-b7aa-47e3-aaef-cb7c067a54c0\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppLovinBannerAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"200226539c69b315\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"68a7051c-3b5a-4d41-8b43-19585d4002bf\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppLovinRewardedAdID\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"1db535d17b5a65e7\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a15e943e-4aac-4d18-b5d7-33cadac35a17\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"TwoSmallBannerAppLovinAndAdmob\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"d78fd3a5-f12d-4155-916c-38bd5fee0308\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"AppOpen_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/3132695992\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"37f508d9-0641-4ca6-be72-d10ca36091c8\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"RewardCheckAll\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"a9cd4827-9510-4d82-969f-2693fd95112a\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"interstitialCheckAll\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"4a2e8bd9-e404-43be-bbe5-1f802822d046\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"SquareBannerCheckAll\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"0c786e5d-9fc0-4037-895c-34adb5a6de3b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AppOpenLandScape\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"b8c89e6f-ebaa-414a-a524-53d2565e3fa8\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"EnableAppOpenAD\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"6f7de8b6-8956-464a-9628-e44a4b775c37\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AppLovinMRecAdID\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"80c2ff27c96b3f67\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"98637f17-ce95-4e04-afcd-8545985db359\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"TopLeftSmallBannerMediation\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"f7c8b108-d42a-4175-8bd4-8bbe44dbf2b0\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"TopRightSmallBannerAdmob\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"bb12951f-2b67-4464-9c34-4895cbb52eae\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"RightBanner_AD_ID(0)\",\r\n      \"type\": \"string\",\r\n      \"value\":
+    \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"e9a95852-d307-45e8-852d-db0d8f36169d\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"RightBanner_AD_ID(1)\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n    }\r\n  },\r\n  {\r\n   
+    \"metadata\": {\r\n      \"entityId\": \"640548d0-a968-43e5-a684-2067959ec8fe\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"RightBanner_AD_ID(2)\",\r\n      \"type\":
+    \"string\",\r\n      \"value\": \"ca-app-pub-9090009291567136/5787952956\"\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"238c58be-e2a5-46ed-af5e-76ded1a7b953\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ShopItem\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"97576dfb-b838-4740-a922-f90d73adb48d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"BannerCheckAllApplovinAndAdmob\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"aea53e59-3492-4666-87ca-adaab3d61245\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ApplovinBannerPosition\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"03d333fa-d959-437e-89eb-3adccdb33d9b\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"LevelComplete\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e1a973d8-81a7-4131-b938-e6273558f13d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ShowApplovinInterstitial\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"1b638e72-854e-4558-bec2-89f9e559597d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ShowApplovinRewarded\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"3d2b01e3-6804-412f-b04e-b4140abb28d8\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"ApplovinMREC\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"967641b6-08b1-446f-b7e4-3399ae624529\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"AdDivisionValue\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    1\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"d227c5e5-91f6-4a1a-8c48-94f14b627775\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobInterstitial\",\r\n      \"type\":
+    \"bool\",\r\n      \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"4866b992-dfbe-49d9-9a20-707b0742e600\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"ShopActivationValue\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": true\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"8c735642-e6d5-4776-a9d9-f6fee85872e1\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"ApplovinTestAds\",\r\n      \"type\": \"bool\",\r\n      \"value\":
+    true\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"3e7c973c-64db-4a31-a4d3-3ad7820eb712\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"55178623-db0c-4e56-95ea-eed1d547cd9b\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2024-08-16T14:12:37Z\",\r\n    \"updatedAt\":
+    \"2024-08-16T14:12:37Z\"\r\n  }\r\n]"

@@ -1,0 +1,2976 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "Close"
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6914413, y: 0.1480167, z: 0.6914413, w: -0.1480167}
+        inSlope: {x: 0.01146696, y: -0.05443837, z: 0.01146696, w: 0.05443837}
+        outSlope: {x: 0.01146696, y: -0.05443837, z: 0.01146696, w: 0.05443837}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.125
+        value: {x: 0.7011063, y: 0.09192365, z: 0.7011063, w: -0.09192365}
+        inSlope: {x: 0.126882, y: -1.105705, z: 0.126882, w: 1.105705}
+        outSlope: {x: 0.126882, y: -1.105705, z: 0.126882, w: 1.105705}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: 0.7062711, y: 0.03436815, z: 0.7062711, w: -0.03436815}
+        inSlope: {x: 0.04969941, y: -1.717944, z: 0.04969941, w: 1.717944}
+        outSlope: {x: 0.04969941, y: -1.717944, z: 0.04969941, w: 1.717944}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 0.686708, y: -0.1686183, z: 0.686708, w: 0.1686183}
+        inSlope: {x: -0.8219237, y: -3.074902, z: -0.8219237, w: 3.074902}
+        outSlope: {x: -0.8219237, y: -3.074902, z: -0.8219237, w: 3.074902}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2916667
+        value: {x: 0.6367542, y: -0.3074803, z: 0.6367542, w: 0.3074803}
+        inSlope: {x: -1.674542, y: -3.351358, z: -1.674542, w: 3.351358}
+        outSlope: {x: -1.674542, y: -3.351358, z: -1.674542, w: 3.351358}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333334
+        value: {x: 0.5471628, y: -0.4478982, z: 0.5471628, w: 0.4478982}
+        inSlope: {x: -2.604484, y: -3.139073, z: -2.604484, w: 3.139073}
+        outSlope: {x: -2.604484, y: -3.139073, z: -2.604484, w: 3.139073}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: 0.4197141, y: -0.5690695, z: 0.4197141, w: 0.5690695}
+        inSlope: {x: -3.366049, y: -2.484013, z: -3.366049, w: 2.484013}
+        outSlope: {x: -3.366049, y: -2.484013, z: -3.366049, w: 2.484013}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4166667
+        value: {x: 0.2666586, y: -0.6548994, z: 0.2666586, w: 0.6548994}
+        inSlope: {x: -3.750196, y: -1.558372, z: -3.750196, w: 1.558372}
+        outSlope: {x: -3.750196, y: -1.558372, z: -3.750196, w: 1.558372}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4583334
+        value: {x: 0.1071976, y: -0.698934, z: 0.1071976, w: 0.698934}
+        inSlope: {x: -3.659657, y: -0.6140254, z: -3.659657, w: 0.6140254}
+        outSlope: {x: -3.659657, y: -0.6140254, z: -3.659657, w: 0.6140254}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: -0.03831253, y: -0.7060681, z: -0.03831253, w: 0.7060681}
+        inSlope: {x: -3.127564, y: 0.1040914, z: -3.127564, w: -0.1040914}
+        outSlope: {x: -3.127564, y: 0.1040914, z: -3.127564, w: -0.1040914}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5833334
+        value: {x: -0.2275063, y: -0.6695079, z: -0.2275063, w: 0.6695079}
+        inSlope: {x: -1.202863, y: 0.3626529, z: -1.202863, w: -0.3626529}
+        outSlope: {x: -1.202863, y: 0.3626529, z: -1.202863, w: -0.3626529}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.2536713, y: -0.6600386, z: -0.2536713, w: 0.6600386}
+        inSlope: {x: -0.6279594, y: 0.2272642, z: -0.6279594, w: -0.2272642}
+        outSlope: {x: -0.6279594, y: 0.2272642, z: -0.6279594, w: -0.2272642}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_02"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5836002, y: -0.399263, z: -0.5836002, w: 0.399263}
+        inSlope: {x: 0.01731273, y: -0.02520735, z: 0.01731273, w: 0.02520735}
+        outSlope: {x: 0.01731273, y: -0.02520735, z: 0.01731273, w: 0.02520735}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.125
+        value: {x: -0.557478, y: -0.4349923, z: -0.557478, w: 0.4349923}
+        inSlope: {x: 0.6235486, y: -0.7716941, z: 0.6235486, w: 0.7716941}
+        outSlope: {x: 0.6235486, y: -0.7716941, z: 0.6235486, w: 0.7716941}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.1666667
+        value: {x: -0.5230758, y: -0.4758065, z: -0.5230758, w: 0.4758065}
+        inSlope: {x: 1.138829, y: -1.197837, z: 1.138829, w: 1.197837}
+        outSlope: {x: 1.138829, y: -1.197837, z: 1.138829, w: 1.197837}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2083334
+        value: {x: -0.4625756, y: -0.534812, z: -0.4625756, w: 0.534812}
+        inSlope: {x: 1.899886, y: -1.55955, z: 1.899886, w: 1.55955}
+        outSlope: {x: 1.899886, y: -1.55955, z: 1.899886, w: 1.55955}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.3647521, y: -0.6057689, z: -0.3647521, w: 0.6057689}
+        inSlope: {x: 2.816155, y: -1.614761, z: 2.816155, w: 1.614761}
+        outSlope: {x: 2.816155, y: -1.614761, z: 2.816155, w: 1.614761}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.2916667
+        value: {x: -0.2278958, y: -0.6693755, z: -0.2278958, w: 0.6693755}
+        inSlope: {x: 3.648901, y: -1.184756, z: 3.648901, w: 1.184756}
+        outSlope: {x: 3.648901, y: -1.184756, z: 3.648901, w: 1.184756}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333334
+        value: {x: -0.06067689, y: -0.7044986, z: -0.06067689, w: 0.7044986}
+        inSlope: {x: 4.173808, y: -0.3298584, z: 4.173808, w: 0.3298584}
+        outSlope: {x: 4.173808, y: -0.3298584, z: 4.173808, w: 0.3298584}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: 0.1199212, y: -0.6968637, z: 0.1199212, w: 0.6968637}
+        inSlope: {x: 4.238799, y: 0.729014, z: 4.238799, w: -0.729014}
+        outSlope: {x: 4.238799, y: 0.729014, z: 4.238799, w: -0.729014}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4166667
+        value: {x: 0.2925565, y: -0.6437474, z: 0.2925565, w: 0.6437474}
+        inSlope: {x: 3.818224, y: 1.701959, z: 3.818224, w: -1.701959}
+        outSlope: {x: 3.818224, y: 1.701959, z: 3.818224, w: -1.701959}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4583334
+        value: {x: 0.4381068, y: -0.5550337, z: 0.4381068, w: 0.5550337}
+        inSlope: {x: 3.035025, y: 2.325545, z: 3.035025, w: -2.325545}
+        outSlope: {x: 3.035025, y: 2.325545, z: 3.035025, w: -2.325545}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: 0.5454751, y: -0.4499522, z: 0.5454751, w: 0.4499522}
+        inSlope: {x: 2.106616, y: 2.4446, z: 2.106616, w: -2.4446}
+        outSlope: {x: 2.106616, y: 2.4446, z: 2.106616, w: -2.4446}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5833334
+        value: {x: 0.6491849, y: -0.2802837, z: 0.6491849, w: 0.2802837}
+        inSlope: {x: 0.5565653, y: 1.17175, z: 0.5565653, w: -1.17175}
+        outSlope: {x: 0.5565653, y: 1.17175, z: 0.5565653, w: -1.17175}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 0.6600386, y: -0.2536713, z: 0.6600386, w: 0.2536713}
+        inSlope: {x: 0.2604892, y: 0.6386989, z: 0.2604892, w: -0.6386989}
+        outSlope: {x: 0.2604892, y: 0.6386989, z: 0.2604892, w: -0.6386989}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_04"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.5580919, y: -0.4342043, z: 0.6962133, w: -0.1236409}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.557421, y: -0.4350654, z: 0.6964033, w: -0.1225659}
+        inSlope: {x: 0.06468977, y: -0.08209979, z: 0.01764247, w: 0.1030238}
+        outSlope: {x: 0.06468977, y: -0.08209979, z: 0.01764247, w: 0.1030238}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.3333334
+        value: {x: -0.5395808, y: -0.4570039, z: 0.7007468, w: -0.09462484}
+        inSlope: {x: 0.4796745, y: -0.5507181, z: 0.08771261, w: 0.725041}
+        outSlope: {x: 0.4796745, y: -0.5507181, z: 0.08771261, w: 0.725041}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: -0.5127283, y: -0.4869391, z: 0.7049929, w: -0.05463553}
+        inSlope: {x: 0.896441, y: -0.9097016, z: 0.07517338, w: 1.274956}
+        outSlope: {x: 0.896441, y: -0.9097016, z: 0.07517338, w: 1.274956}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4166667
+        value: {x: -0.4648773, y: -0.5328124, z: 0.7070113, w: 0.01162155}
+        inSlope: {x: 1.572388, y: -1.299586, z: -0.08800092, w: 2.038035}
+        outSlope: {x: 1.572388, y: -1.299586, z: -0.08800092, w: 2.038035}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: -0.2556831, y: -0.6592618, z: 0.6608092, w: 0.2516571}
+        inSlope: {x: 3.456088, y: -1.267616, z: -1.373313, w: 3.415465}
+        outSlope: {x: 3.456088, y: -1.267616, z: -1.373313, w: 3.415465}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5416667
+        value: {x: -0.09368839, y: -0.7008727, z: 0.5832166, w: 0.399823}
+        inSlope: {x: 4.125461, y: -0.5080137, z: -2.385697, w: 3.403815}
+        outSlope: {x: 4.125461, y: -0.5080137, z: -2.385697, w: 3.403815}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5833334
+        value: {x: 0.08810543, y: -0.7015964, z: 0.462001, w: 0.5353085}
+        inSlope: {x: 4.329329, y: 0.553783, z: -3.310728, w: 2.844089}
+        outSlope: {x: 4.329329, y: 0.553783, z: -3.310728, w: 2.844089}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 0.2670886, y: -0.6547241, z: 0.3073229, w: 0.6368302}
+        inSlope: {x: 3.997964, y: 1.604125, z: -3.86879, w: 1.894569}
+        outSlope: {x: 3.997964, y: 1.604125, z: -3.86879, w: 1.894569}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: 0.4212692, y: -0.5679192, z: 0.1396017, w: 0.6931893}
+        inSlope: {x: 3.233473, y: 2.329916, z: -3.895761, w: 0.8407713}
+        outSlope: {x: 3.233473, y: 2.329916, z: -3.895761, w: 0.8407713}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7083334
+        value: {x: 0.5365449, y: -0.4605644, z: -0.01732407, w: 0.7068945}
+        inSlope: {x: 2.266402, y: 2.526241, z: -3.393876, w: -0.00886488}
+        outSlope: {x: 2.266402, y: 2.526241, z: -3.393876, w: -0.00886488}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7916667
+        value: {x: 0.6484002, y: -0.2820941, z: -0.2247698, w: 0.6704316}
+        inSlope: {x: 0.5988317, y: 1.244734, z: -1.325401, w: -0.3889425}
+        outSlope: {x: 0.5988317, y: 1.244734, z: -1.325401, w: -0.3889425}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 0.6600386, y: -0.2536713, z: -0.2536713, w: 0.6600386}
+        inSlope: {x: 0.2793197, y: 0.6821467, z: -0.6936337, w: -0.2494321}
+        outSlope: {x: 0.2793197, y: 0.6821467, z: -0.6936337, w: -0.2494321}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_05"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.7011955, y: -0.09124108, z: 0.5373685, w: -0.4596033}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.7013214, y: -0.09026779, z: 0.5367301, w: -0.4603486}
+        inSlope: {x: -0.0116093, y: 0.09325078, z: -0.06147327, w: -0.07107414}
+        outSlope: {x: -0.0116093, y: 0.09325078, z: -0.06147327, w: -0.07107414}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: -0.706515, y: -0.02892429, z: 0.4946544, w: -0.505289}
+        inSlope: {x: -0.0279372, y: 1.148093, z: -0.8338677, w: -0.7896596}
+        outSlope: {x: -0.0279372, y: 1.148093, z: -0.8338677, w: -0.7896596}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.4166667
+        value: {x: -0.7064411, y: 0.03067509, z: 0.4503463, w: -0.5451497}
+        inSlope: {x: 0.1306309, y: 1.869731, z: -1.475957, w: -1.155211}
+        outSlope: {x: 0.1306309, y: 1.869731, z: -1.475957, w: -1.155211}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5
+        value: {x: -0.6584518, y: 0.257762, z: 0.2495708, w: -0.6615999}
+        inSlope: {x: 1.368316, y: 3.303364, z: -3.369494, w: -1.196249}
+        outSlope: {x: 1.368316, y: 3.303364, z: -3.369494, w: -1.196249}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5416667
+        value: {x: -0.5816026, y: 0.4021672, z: 0.09086665, w: -0.7012441}
+        inSlope: {x: 2.361962, y: 3.334481, z: -4.058078, w: -0.4792047}
+        outSlope: {x: 2.361962, y: 3.334481, z: -4.058078, w: -0.4792047}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.5833334
+        value: {x: -0.4616216, y: 0.5356356, z: -0.08860251, w: -0.7015337}
+        inSlope: {x: 3.283188, y: 2.81201, z: -4.287063, w: 0.5548165}
+        outSlope: {x: 3.283188, y: 2.81201, z: -4.287063, w: 0.5548165}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.3080038, y: 0.6365011, z: -0.2663882, w: -0.6550094}
+        inSlope: {x: 3.850231, y: 1.887812, z: -3.980515, w: 1.594869}
+        outSlope: {x: 3.850231, y: 1.887812, z: -3.980515, w: 1.594869}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.1407689, y: 0.6929532, z: -0.4203123, w: -0.5686279}
+        inSlope: {x: 3.891126, y: 0.8450242, z: -3.233528, w: 2.323624}
+        outSlope: {x: 3.891126, y: 0.8450242, z: -3.233528, w: 2.323624}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7083334
+        value: {x: 0.01625686, y: 0.7069199, z: -0.535849, w: -0.461374}
+        inSlope: {x: 3.400228, y: -0.004453182, z: -2.273932, w: 2.528004}
+        outSlope: {x: 3.400228, y: -0.004453182, z: -2.273932, w: 2.528004}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.7916667
+        value: {x: 0.2245735, y: 0.6704974, z: -0.6483177, w: -0.282284}
+        inSlope: {x: 1.333054, y: -0.3905217, z: -0.6027849, w: 1.251475}
+        outSlope: {x: 1.333054, y: -0.3905217, z: -0.6027849, w: 1.251475}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 0.2536713, y: 0.6600386, z: -0.6600386, w: -0.2536713}
+        inSlope: {x: 0.6983451, y: -0.2510114, z: -0.281301, w: 0.6867036}
+        outSlope: {x: 0.6983451, y: -0.2510114, z: -0.281301, w: 0.6867036}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333, w: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_joint_03"
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2497708, y: 0.02241468, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.2497708, y: 0.02241468, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_02"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.05109462, y: 0.242824, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.05109462, y: 0.242824, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_04"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1497913, y: 0.1362885, z: -0.0960835}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.1497913, y: 0.1362885, z: -0.0960835}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_05"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1497451, y: 0.1362468, z: 0.1007952}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.1497451, y: 0.1362468, z: 0.1007952}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_joint_03"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2497708, y: 0.02241468, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.2497708, y: 0.02241468, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.05109462, y: 0.242824, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.05109462, y: 0.242824, z: -0.000562507}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1497913, y: 0.1362885, z: -0.0960835}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.1497913, y: 0.1362885, z: -0.0960835}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1497451, y: 0.1362468, z: 0.1007952}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.1497451, y: 0.1362468, z: 0.1007952}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_02"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_04"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_Joint_05"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: {x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: "CardboardBox_30x20x20_Joint_01\x2fCardboardBox_30x20x20_joint_03"
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      - serializedVersion: 3
+        time: 0.8333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        weightedMode: 0
+        inWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+        outWeight: { x: 0.3333333, y: 0.3333333, z: 0.3333333}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+  m_FloatCurves:
+  m_PPtrCurves:
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0.0001853257, y: 0.04808551, z: -0.0006760955}
+    m_Extent: {x: 0.1956218, y: 0.150672, z: 0.2454334}
+  m_MuscleClipSize: 0
+  m_MuscleClip:
+    serializedVersion: 3
+    m_DeltaPose:
+      m_RootX:
+        t: {x: 0, y: 0, z: 0}
+        q: {x: 0, y: 0, z: 0, w: 1}
+        s: {x: 1, y: 1, z: 1}
+      m_LookAtPosition: {x: 0, y: 0, z: 0}
+      m_LookAtWeight: {x: 0, y: 0, z: 0, w: 0}
+      m_GoalArray:
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      - m_X:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+          m_Weight: 
+          m_WeightR: 0
+          m_HintT: {x: 0, y: 0, z: 0}
+          m_HintWeightT: 0
+      m_LeftHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_RightHandPose:
+        m_GrabX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        m_Override: 0
+        m_CloseOpen: 0
+        m_InOut: 0
+        m_Grab: 0
+      m_DoFArray:
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+        - 0
+      m_TDoFArray:
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+      - x: 0
+        y: 0
+        z: 0
+    m_StartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_StopX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_LeftFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RightFootStartX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_AverageSpeed: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    pptrCurveMapping:
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+    m_HasGenericRootTransform: 0
+    m_HasMotionFloatCurves: 0
+    m_GenerateMotionCurves: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6914413
+        inSlope: 0.01146696
+        outSlope: 0.01146696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.7011063
+        inSlope: 0.126882
+        outSlope: 0.126882
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.7062711
+        inSlope: 0.04969941
+        outSlope: 0.04969941
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.686708
+        inSlope: -0.8219237
+        outSlope: -0.8219237
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.6367542
+        inSlope: -1.674542
+        outSlope: -1.674542
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: 0.5471628
+        inSlope: -2.604484
+        outSlope: -2.604484
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.4197141
+        inSlope: -3.366049
+        outSlope: -3.366049
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.2666586
+        inSlope: -3.750196
+        outSlope: -3.750196
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.1071976
+        inSlope: -3.659657
+        outSlope: -3.659657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.03831253
+        inSlope: -3.127564
+        outSlope: -3.127564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.2275063
+        inSlope: -1.202863
+        outSlope: -1.202863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.2536713
+        inSlope: -0.6279594
+        outSlope: -0.6279594
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1480167
+        inSlope: -0.05443837
+        outSlope: -0.05443837
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.09192365
+        inSlope: -1.105705
+        outSlope: -1.105705
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.03436815
+        inSlope: -1.717944
+        outSlope: -1.717944
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.1686183
+        inSlope: -3.074902
+        outSlope: -3.074902
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.3074803
+        inSlope: -3.351358
+        outSlope: -3.351358
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.4478982
+        inSlope: -3.139073
+        outSlope: -3.139073
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.5690695
+        inSlope: -2.484013
+        outSlope: -2.484013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.6548994
+        inSlope: -1.558372
+        outSlope: -1.558372
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: -0.698934
+        inSlope: -0.6140254
+        outSlope: -0.6140254
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.7060681
+        inSlope: 0.1040914
+        outSlope: 0.1040914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.6695079
+        inSlope: 0.3626529
+        outSlope: 0.3626529
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.6600386
+        inSlope: 0.2272642
+        outSlope: 0.2272642
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6914413
+        inSlope: 0.01146696
+        outSlope: 0.01146696
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.7011063
+        inSlope: 0.126882
+        outSlope: 0.126882
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.7062711
+        inSlope: 0.04969941
+        outSlope: 0.04969941
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.686708
+        inSlope: -0.8219237
+        outSlope: -0.8219237
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.6367542
+        inSlope: -1.674542
+        outSlope: -1.674542
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: 0.5471628
+        inSlope: -2.604484
+        outSlope: -2.604484
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.4197141
+        inSlope: -3.366049
+        outSlope: -3.366049
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.2666586
+        inSlope: -3.750196
+        outSlope: -3.750196
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.1071976
+        inSlope: -3.659657
+        outSlope: -3.659657
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.03831253
+        inSlope: -3.127564
+        outSlope: -3.127564
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.2275063
+        inSlope: -1.202863
+        outSlope: -1.202863
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.2536713
+        inSlope: -0.6279594
+        outSlope: -0.6279594
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1480167
+        inSlope: 0.05443837
+        outSlope: 0.05443837
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.09192365
+        inSlope: 1.105705
+        outSlope: 1.105705
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.03436815
+        inSlope: 1.717944
+        outSlope: 1.717944
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.1686183
+        inSlope: 3.074902
+        outSlope: 3.074902
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.3074803
+        inSlope: 3.351358
+        outSlope: 3.351358
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: 0.4478982
+        inSlope: 3.139073
+        outSlope: 3.139073
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.5690695
+        inSlope: 2.484013
+        outSlope: 2.484013
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.6548994
+        inSlope: 1.558372
+        outSlope: 1.558372
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.698934
+        inSlope: 0.6140254
+        outSlope: 0.6140254
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.7060681
+        inSlope: -0.1040914
+        outSlope: -0.1040914
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.6695079
+        inSlope: -0.3626529
+        outSlope: -0.3626529
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.6600386
+        inSlope: -0.2272642
+        outSlope: -0.2272642
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5836002
+        inSlope: 0.01731273
+        outSlope: 0.01731273
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.557478
+        inSlope: 0.6235486
+        outSlope: 0.6235486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.5230758
+        inSlope: 1.138829
+        outSlope: 1.138829
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2083334
+        value: -0.4625756
+        inSlope: 1.899886
+        outSlope: 1.899886
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.3647521
+        inSlope: 2.816155
+        outSlope: 2.816155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.2278958
+        inSlope: 3.648901
+        outSlope: 3.648901
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.06067689
+        inSlope: 4.173808
+        outSlope: 4.173808
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.1199212
+        inSlope: 4.238799
+        outSlope: 4.238799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.2925565
+        inSlope: 3.818224
+        outSlope: 3.818224
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.4381068
+        inSlope: 3.035025
+        outSlope: 3.035025
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.5454751
+        inSlope: 2.106616
+        outSlope: 2.106616
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.6491849
+        inSlope: 0.5565653
+        outSlope: 0.5565653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.6600386
+        inSlope: 0.2604892
+        outSlope: 0.2604892
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.399263
+        inSlope: -0.02520735
+        outSlope: -0.02520735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.4349923
+        inSlope: -0.7716941
+        outSlope: -0.7716941
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.4758065
+        inSlope: -1.197837
+        outSlope: -1.197837
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2083334
+        value: -0.534812
+        inSlope: -1.55955
+        outSlope: -1.55955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.6057689
+        inSlope: -1.614761
+        outSlope: -1.614761
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.6693755
+        inSlope: -1.184756
+        outSlope: -1.184756
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.7044986
+        inSlope: -0.3298584
+        outSlope: -0.3298584
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.6968637
+        inSlope: 0.729014
+        outSlope: 0.729014
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.6437474
+        inSlope: 1.701959
+        outSlope: 1.701959
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: -0.5550337
+        inSlope: 2.325545
+        outSlope: 2.325545
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.4499522
+        inSlope: 2.4446
+        outSlope: 2.4446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.2802837
+        inSlope: 1.17175
+        outSlope: 1.17175
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.2536713
+        inSlope: 0.6386989
+        outSlope: 0.6386989
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5836002
+        inSlope: 0.01731273
+        outSlope: 0.01731273
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: -0.557478
+        inSlope: 0.6235486
+        outSlope: 0.6235486
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: -0.5230758
+        inSlope: 1.138829
+        outSlope: 1.138829
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2083334
+        value: -0.4625756
+        inSlope: 1.899886
+        outSlope: 1.899886
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.3647521
+        inSlope: 2.816155
+        outSlope: 2.816155
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: -0.2278958
+        inSlope: 3.648901
+        outSlope: 3.648901
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.06067689
+        inSlope: 4.173808
+        outSlope: 4.173808
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.1199212
+        inSlope: 4.238799
+        outSlope: 4.238799
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.2925565
+        inSlope: 3.818224
+        outSlope: 3.818224
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.4381068
+        inSlope: 3.035025
+        outSlope: 3.035025
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.5454751
+        inSlope: 2.106616
+        outSlope: 2.106616
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.6491849
+        inSlope: 0.5565653
+        outSlope: 0.5565653
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.6600386
+        inSlope: 0.2604892
+        outSlope: 0.2604892
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.399263
+        inSlope: 0.02520735
+        outSlope: 0.02520735
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.125
+        value: 0.4349923
+        inSlope: 0.7716941
+        outSlope: 0.7716941
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.1666667
+        value: 0.4758065
+        inSlope: 1.197837
+        outSlope: 1.197837
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2083334
+        value: 0.534812
+        inSlope: 1.55955
+        outSlope: 1.55955
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.6057689
+        inSlope: 1.614761
+        outSlope: 1.614761
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.2916667
+        value: 0.6693755
+        inSlope: 1.184756
+        outSlope: 1.184756
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: 0.7044986
+        inSlope: 0.3298584
+        outSlope: 0.3298584
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.6968637
+        inSlope: -0.729014
+        outSlope: -0.729014
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.6437474
+        inSlope: -1.701959
+        outSlope: -1.701959
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4583334
+        value: 0.5550337
+        inSlope: -2.325545
+        outSlope: -2.325545
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.4499522
+        inSlope: -2.4446
+        outSlope: -2.4446
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.2802837
+        inSlope: -1.17175
+        outSlope: -1.17175
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.2536713
+        inSlope: -0.6386989
+        outSlope: -0.6386989
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.5580919
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.557421
+        inSlope: 0.06468977
+        outSlope: 0.06468977
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.5395808
+        inSlope: 0.4796745
+        outSlope: 0.4796745
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.5127283
+        inSlope: 0.896441
+        outSlope: 0.896441
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.4648773
+        inSlope: 1.572388
+        outSlope: 1.572388
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.2556831
+        inSlope: 3.456088
+        outSlope: 3.456088
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: -0.09368839
+        inSlope: 4.125461
+        outSlope: 4.125461
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.08810543
+        inSlope: 4.329329
+        outSlope: 4.329329
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.2670886
+        inSlope: 3.997964
+        outSlope: 3.997964
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.4212692
+        inSlope: 3.233473
+        outSlope: 3.233473
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: 0.5365449
+        inSlope: 2.266402
+        outSlope: 2.266402
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: 0.6484002
+        inSlope: 0.5988317
+        outSlope: 0.5988317
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.6600386
+        inSlope: 0.2793197
+        outSlope: 0.2793197
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4342043
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.4350654
+        inSlope: -0.08209979
+        outSlope: -0.08209979
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.4570039
+        inSlope: -0.5507181
+        outSlope: -0.5507181
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.4869391
+        inSlope: -0.9097016
+        outSlope: -0.9097016
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.5328124
+        inSlope: -1.299586
+        outSlope: -1.299586
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.6592618
+        inSlope: -1.267616
+        outSlope: -1.267616
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: -0.7008727
+        inSlope: -0.5080137
+        outSlope: -0.5080137
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.7015964
+        inSlope: 0.553783
+        outSlope: 0.553783
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.6547241
+        inSlope: 1.604125
+        outSlope: 1.604125
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.5679192
+        inSlope: 2.329916
+        outSlope: 2.329916
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: -0.4605644
+        inSlope: 2.526241
+        outSlope: 2.526241
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: -0.2820941
+        inSlope: 1.244734
+        outSlope: 1.244734
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.2536713
+        inSlope: 0.6821467
+        outSlope: 0.6821467
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.6962133
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.6964033
+        inSlope: 0.01764247
+        outSlope: 0.01764247
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: 0.7007468
+        inSlope: 0.08771261
+        outSlope: 0.08771261
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.7049929
+        inSlope: 0.07517338
+        outSlope: 0.07517338
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.7070113
+        inSlope: -0.08800092
+        outSlope: -0.08800092
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.6608092
+        inSlope: -1.373313
+        outSlope: -1.373313
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: 0.5832166
+        inSlope: -2.385697
+        outSlope: -2.385697
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.462001
+        inSlope: -3.310728
+        outSlope: -3.310728
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.3073229
+        inSlope: -3.86879
+        outSlope: -3.86879
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.1396017
+        inSlope: -3.895761
+        outSlope: -3.895761
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: -0.01732407
+        inSlope: -3.393876
+        outSlope: -3.393876
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: -0.2247698
+        inSlope: -1.325401
+        outSlope: -1.325401
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.2536713
+        inSlope: -0.6936337
+        outSlope: -0.6936337
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1236409
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.1225659
+        inSlope: 0.1030238
+        outSlope: 0.1030238
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.3333334
+        value: -0.09462484
+        inSlope: 0.725041
+        outSlope: 0.725041
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.05463553
+        inSlope: 1.274956
+        outSlope: 1.274956
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.01162155
+        inSlope: 2.038035
+        outSlope: 2.038035
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.2516571
+        inSlope: 3.415465
+        outSlope: 3.415465
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: 0.399823
+        inSlope: 3.403815
+        outSlope: 3.403815
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.5353085
+        inSlope: 2.844089
+        outSlope: 2.844089
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.6368302
+        inSlope: 1.894569
+        outSlope: 1.894569
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.6931893
+        inSlope: 0.8407713
+        outSlope: 0.8407713
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: 0.7068945
+        inSlope: -0.00886488
+        outSlope: -0.00886488
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: 0.6704316
+        inSlope: -0.3889425
+        outSlope: -0.3889425
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.6600386
+        inSlope: -0.2494321
+        outSlope: -0.2494321
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.7011955
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.7013214
+        inSlope: -0.0116093
+        outSlope: -0.0116093
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.706515
+        inSlope: -0.0279372
+        outSlope: -0.0279372
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.7064411
+        inSlope: 0.1306309
+        outSlope: 0.1306309
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.6584518
+        inSlope: 1.368316
+        outSlope: 1.368316
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: -0.5816026
+        inSlope: 2.361962
+        outSlope: 2.361962
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.4616216
+        inSlope: 3.283188
+        outSlope: 3.283188
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.3080038
+        inSlope: 3.850231
+        outSlope: 3.850231
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.1407689
+        inSlope: 3.891126
+        outSlope: 3.891126
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: 0.01625686
+        inSlope: 3.400228
+        outSlope: 3.400228
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: 0.2245735
+        inSlope: 1.333054
+        outSlope: 1.333054
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.2536713
+        inSlope: 0.6983451
+        outSlope: 0.6983451
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.09124108
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.09026779
+        inSlope: 0.09325078
+        outSlope: 0.09325078
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.02892429
+        inSlope: 1.148093
+        outSlope: 1.148093
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.03067509
+        inSlope: 1.869731
+        outSlope: 1.869731
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.257762
+        inSlope: 3.303364
+        outSlope: 3.303364
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: 0.4021672
+        inSlope: 3.334481
+        outSlope: 3.334481
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: 0.5356356
+        inSlope: 2.81201
+        outSlope: 2.81201
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.6365011
+        inSlope: 1.887812
+        outSlope: 1.887812
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: 0.6929532
+        inSlope: 0.8450242
+        outSlope: 0.8450242
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: 0.7069199
+        inSlope: -0.004453182
+        outSlope: -0.004453182
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: 0.6704974
+        inSlope: -0.3905217
+        outSlope: -0.3905217
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 0.6600386
+        inSlope: -0.2510114
+        outSlope: -0.2510114
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.5373685
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: 0.5367301
+        inSlope: -0.06147327
+        outSlope: -0.06147327
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: 0.4946544
+        inSlope: -0.8338677
+        outSlope: -0.8338677
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: 0.4503463
+        inSlope: -1.475957
+        outSlope: -1.475957
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: 0.2495708
+        inSlope: -3.369494
+        outSlope: -3.369494
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: 0.09086665
+        inSlope: -4.058078
+        outSlope: -4.058078
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.08860251
+        inSlope: -4.287063
+        outSlope: -4.287063
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.2663882
+        inSlope: -3.980515
+        outSlope: -3.980515
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.4203123
+        inSlope: -3.233528
+        outSlope: -3.233528
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: -0.535849
+        inSlope: -2.273932
+        outSlope: -2.273932
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: -0.6483177
+        inSlope: -0.6027849
+        outSlope: -0.6027849
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.6600386
+        inSlope: -0.281301
+        outSlope: -0.281301
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.4596033
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.25
+        value: -0.4603486
+        inSlope: -0.07107414
+        outSlope: -0.07107414
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.375
+        value: -0.505289
+        inSlope: -0.7896596
+        outSlope: -0.7896596
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.4166667
+        value: -0.5451497
+        inSlope: -1.155211
+        outSlope: -1.155211
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5
+        value: -0.6615999
+        inSlope: -1.196249
+        outSlope: -1.196249
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5416667
+        value: -0.7012441
+        inSlope: -0.4792047
+        outSlope: -0.4792047
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.5833334
+        value: -0.7015337
+        inSlope: 0.5548165
+        outSlope: 0.5548165
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.6550094
+        inSlope: 1.594869
+        outSlope: 1.594869
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.6666667
+        value: -0.5686279
+        inSlope: 2.323624
+        outSlope: 2.323624
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7083334
+        value: -0.461374
+        inSlope: 2.528004
+        outSlope: 2.528004
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.7916667
+        value: -0.282284
+        inSlope: 1.251475
+        outSlope: 1.251475
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: -0.2536713
+        inSlope: 0.6867036
+        outSlope: 0.6867036
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalRotation.w
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.2497708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.2497708
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.02241468
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.02241468
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000562507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.000562507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.05109462
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.05109462
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.242824
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 0.242824
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.000562507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: -0.000562507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1497913
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: -0.1497913
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1362885
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: 0.1362885
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.0960835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: -0.0960835
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: -0.1497451
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: -0.1497451
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1362468
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: 0.1362468
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0.1007952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333333
+        value: 0.1007952
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_02
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.625
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_04
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_Joint_05
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.x
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.y
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 0.8333335
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalScale.z
+    path: CardboardBox_30x20x20_Joint_01/CardboardBox_30x20x20_joint_03
+    classID: 4
+    script: 
+  m_Events:

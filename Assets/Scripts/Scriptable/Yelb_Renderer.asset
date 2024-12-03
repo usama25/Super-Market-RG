@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1575395517, guid: 29e813a857f88da7649e95eaa2f3fc7a, type: 3}
+  m_Name: "Yelb_Renderer"
+  m_EditorClassIdentifier: 
+  debugShaders:
+    debugReplacementPS: {fileID: 4800000, guid: aafcff0737c84b4d8fba3ed8d93ecc0f, type: 3}
+    hdrDebugViewPS: {fileID: 4800000, guid: a34e6f27257b4edca81409273d62733f, type: 3}
+  m_RendererFeatures: []
+  m_RendererFeatureMap: []
+  m_UseNativeRenderPass: 0
+  postProcessData: {fileID: 11400000, guid: d6d0de0532ea4606a9f69acbd6ccd816, type: 2}
+  xrSystemData: {fileID: 11400000, guid: fa6775e782ba4c85b82bf5e5c8107eb9, type: 2}
+  shaders:
+    blitPS: {fileID: 4800000, guid: 164714f8839947b78892fc78c70c02cb, type: 3}
+    copyDepthPS: {fileID: 4800000, guid: f00e058179e14ab4afae3fc4c926a179, type: 3}
+    screenSpaceShadowPS: {fileID: 0}
+    samplingPS: {fileID: 4800000, guid: 2ae1226043fb41ff9645362d736d0873, type: 3}
+    stencilDeferredPS: {fileID: 4800000, guid: ad3f7271c4f8454892f279b9db76de9e, type: 3}
+    fallbackErrorPS: {fileID: 4800000, guid: 5d85a17302f44c88a9e142ff1fa19f54, type: 3}
+    fallbackLoadingPS: {fileID: 4800000, guid: 2faf80facf4740a19622856faf015c56, type: 3}
+    materialErrorPS: {fileID: 4800000, guid: ffe160057edc4a1e911427a540a9e056, type: 3}
+    coreBlitPS: {fileID: 4800000, guid: 1bb43dbece4c43beb54e9df0b7d527f3, type: 3}
+    coreBlitColorAndDepthPS: {fileID: 4800000, guid: 6534ae1c7ba44af6b0e7835828082f54, type: 3}
+    blitHDROverlay: {fileID: 4800000, guid: 605578093f1244bfa99311aceb429d80, type: 3}
+    cameraMotionVector: {fileID: 4800000, guid: ff115fde6fab40cd844fe0604f0d8491, type: 3}
+    objectMotionVector: {fileID: 4800000, guid: 56df746620b649bd88bba6b739704116, type: 3}
+    dataDrivenLensFlare: {fileID: 4800000, guid: e3ce230fa8b04353bb10109ec01be465, type: 3}
+  m_AssetVersion: 2
+  m_OpaqueLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_TransparentLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_DefaultStencilState:
+    overrideStencilState: 0
+    stencilReference: 0
+    stencilCompareFunction: 8
+    passOperation: 2
+    failOperation: 0
+    zFailOperation: 0
+  m_ShadowTransparentReceive: 1
+  m_RenderingMode: 0
+  m_DepthPrimingMode: 0
+  m_CopyDepthMode: 0
+  m_AccurateGbufferNormals: 0
+  m_IntermediateTextureMode: 1

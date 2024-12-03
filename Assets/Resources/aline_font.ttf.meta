@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7342f7b67794d6fadd9bee3f16d57e7
+timeCreated: 1712993788
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "aline_font"
+  fontNames:
+  - Droid Sans Mono
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
